@@ -1,0 +1,31 @@
+
+#caja1{
+    height: 1660px;
+    padding: 10px;
+
+}
+
+#caja2{
+    background-color: skyblue;
+    width: auto;
+    height: auto;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#caja3{
+    background-color: yellow;
+    float: right;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+}
+
+#cajaimg{
+   float: right;
+   width: 400px;
+   height: 300px;
+   margin: 10px;
+}
+
+

@@ -1,0 +1,10 @@
+p, strong{
+    border: 2px solid;
+}
+
+#caja{
+    margin: 20px;
+    padding: 10px;
+    background-color: salmon;
+    width: 100px;
+}

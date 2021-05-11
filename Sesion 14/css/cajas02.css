@@ -1,0 +1,58 @@
+/*
+.tamaño{
+    height: 60px;
+    width: 100px;
+}
+
+#caja1{
+    background-color: red;
+    height: 1660px;
+
+}
+
+#caja2{
+    background-color: royalblue;
+}
+
+#caja3{
+    background-color: green;
+    position: fixed; /*absolute (fijo) - relative (se mueve) - fixed(se mueve con el scrol)
+    top: 60px;
+    left: 100px;
+}
+
+#caja4{
+    background-color: greenyellow;
+    position: fixed;
+    top: 60px;
+    left: 200px;
+}
+
+*/
+
+/* PROBANDO FLOAT */
+
+.tamaño{
+    height: 60px;
+    width: 100px;
+}
+
+#caja1{
+    background-color: red;
+    height: 1660px;
+
+}
+
+#caja2{
+    background-color: royalblue;
+    float: right;
+}
+
+#caja3{
+    background-color: green;
+}
+
+#caja4{
+    background-color: greenyellow;
+    float: right;
+}

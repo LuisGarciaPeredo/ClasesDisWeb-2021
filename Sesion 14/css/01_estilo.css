@@ -1,0 +1,10 @@
+
+/*
+.externo {
+    color: gray;
+}
+*/
+
+a[class="externo"]{
+    color: red;
+}
