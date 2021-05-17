@@ -1,0 +1,30 @@
+header {
+    background-color: aquamarine;
+    height: 150px;
+}
+
+nav {
+    background-color: blueviolet;
+    width: 25%;
+}
+
+section{
+    background-color: cornflowerblue;
+    width: 50%;
+}
+
+aside {
+    background-color: darkgoldenrod;
+    width: 25%;
+}
+
+footer {
+    background-color: darkkhaki;
+    clear: left;
+    height: 100px;
+}
+
+nav, section, aside {
+    float: left;
+    height: 350px;
+}
