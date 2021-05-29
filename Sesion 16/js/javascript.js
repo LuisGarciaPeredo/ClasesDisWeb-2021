@@ -17,3 +17,4 @@ function suma(x,y) {
     var sum = x + y;
     document.getElementById("sumar").innerHTML = "la suma es " + sum;
 }
+
