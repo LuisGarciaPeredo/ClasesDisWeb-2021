@@ -1,0 +1,78 @@
+.cuadrado{
+    width: 100px;
+    height: 100px;
+    background-color: indigo;
+    margin-left: 30px;
+}
+
+.rombo{
+    width: 100px;
+    height: 100px;
+    background-color:lawngreen;
+    margin-left: 30px;
+    transform: rotate(45deg);
+}
+
+.paralelogramo{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    margin-left: 30px;
+    transform:skew(20deg);
+}
+
+.triangulo1{
+    width: 0px;
+    height: 0px;
+    margin-left: 30px;
+    border-left: 50px solid brown;
+    border-right: 50px solid red;
+    border-top: 50px solid skyblue;
+    border-bottom: 50px solid green;
+}
+
+.triangulo2{
+    width: 0px;
+    height: 0px;
+    margin-left: 30px;
+    border-left: 50px solid green;
+    border-right: 50px solid transparent;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid green;
+    transform: rotate(135deg);
+}
+
+.circulo1 {
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.circulo2 {
+    width: 0px;
+    height: 0px;
+    margin-left: 30px;
+    background-color: black;
+    border-radius: 50%;
+    border-left: 50px solid green;
+    border-right: 50px solid transparent;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid green;
+}
+
+.diamante{
+    width: 100px;
+    height: 100px;
+    margin-left: 30px;
+    background-color:cadetblue;
+    clip-path: polygon(25% 0, 75% 0, 100% 25%, 50% 100%, 0 25%);
+}
+
+/*  
+División en sectores
+    border-left: 50px solid green;
+    border-right: 50px solid transparent;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid green;*/ 
