@@ -1,0 +1,29 @@
+#contenedor{
+    max-width: 1000%;
+    min-height: 100vh;
+}
+
+header {
+   
+    background-color: darkkhaki;
+}
+
+nav {
+
+    background-color: darkolivegreen;
+}
+
+section {
+   
+    background-color: darkturquoise;
+}
+
+aside {
+
+    background-color: darkviolet;
+}
+
+footer {
+    
+    background-color:dimgrey;
+}

@@ -1,0 +1,11 @@
+
+
+.row{
+    height: 40px;
+    margin-top: 20px;
+}
+
+.col{
+    border: cadetblue 1px solid;
+    background-color:cyan;
+}
